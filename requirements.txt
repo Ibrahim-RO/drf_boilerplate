@@ -1,0 +1,9 @@
+Django==4.2.16
+djangorestframework==3.16.1
+uvicorn==0.38.0
+channels==4.1.0
+channels-redis==4.2.0
+whitenoise==6.11.0
+django-redis==6.0.0
+psycopg==3.2.11
+django-environ==0.10.0
